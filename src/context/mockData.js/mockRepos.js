@@ -110,7 +110,7 @@ export default [
     svn_url: "https://github.com/john-smilga/bazinga-example",
     homepage: null,
     size: 173,
-    stargazers_count: 1,
+    stargazers_count: 206,
     watchers_count: 1,
     language: "JavaScript",
     has_issues: true,
